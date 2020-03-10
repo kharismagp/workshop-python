@@ -1,6 +1,6 @@
 # Minggu-03
 
-> Struktur Data<br>
+> Data Structures<br>
 > Bab 5
 
 - ## Function on Lists
